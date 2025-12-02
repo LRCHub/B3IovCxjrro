@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "42:7",
+  "base_artist": "はるな。",
+  "createdAt": "2025-12-02T07:54:03.061354Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "42-7-29",
+      "artist": "Argus",
+      "has_synced": false,
+      "path": "select/01_42-7-29_Argus.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "42:7",
+      "artist": "はるな。",
+      "has_synced": false,
+      "path": "select/pl_01_42_7_はるな。.txt"
+    }
+  ]
+}
